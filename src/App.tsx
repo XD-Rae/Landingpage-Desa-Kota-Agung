@@ -24,7 +24,6 @@ function App() {
               <Route path="/pelaporan" element={<Pelaporan />} />
               <Route path="/UMKM" element={<UmkmPage />} />
               <Route path="/UMKM2" element={<FaninditaFloristPage />} />
-              
 
               <Route path="informasi">
                 <Route path="event" element={<EventPage />} />

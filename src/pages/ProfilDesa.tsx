@@ -134,9 +134,9 @@ export default function ProfilDesa() {
 
           <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8">
             {[
-              "Pertanian & Perkebunan",
-              "UMKM & Kerajinan",
-              "Begal",
+              "Pertanian",
+              "perdagangan",
+              "investasi",
             ].map((item) => (
               <div
                 key={item}
@@ -161,7 +161,7 @@ export default function ProfilDesa() {
             {[
               "Kantor Desa",
               "Tempat Ibadah",
-              "Balai Desa",
+              "Lahan Pertanian",
               "Jalan Desa",
             ].map((item) => (
               <div
