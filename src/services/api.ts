@@ -3,8 +3,8 @@ import {
   Dusun,
 } from "../types";
 
-// const API_BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:3008";
-const API_BASE_URL = import.meta.env.VITE_API_URL || "https://api-buah-berak.garnusa.com";
+const API_BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:3008";
+
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 const DEFAULT_TIMEOUT = 30000;
 
